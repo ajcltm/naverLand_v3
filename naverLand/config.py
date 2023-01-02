@@ -1,6 +1,6 @@
 from pathlib import Path
 
-current_project = '221230'
+current_project = '230103'
 dir_main = Path('F:').joinpath('data', 'naverLand')
 dir_current_project = dir_main.joinpath(current_project)
 dir_gu = dir_current_project.joinpath('0. gu')
